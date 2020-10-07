@@ -49,7 +49,7 @@ const serverlessConfiguration: Serverless = {
         }
       ]
     }
-  }
+  },
 }
 
 module.exports = serverlessConfiguration;
